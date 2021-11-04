@@ -1,0 +1,53 @@
+html {
+    background-color: #cdceec;
+    color: rgba(17, 15, 17, 0.986);
+    }
+
+main {
+    padding :2em;
+    font-family: Helvetica, sans-serif;
+    }
+   
+h2 {
+    border-bottom: 1px dashed #333; 
+    }    
+
+section {
+    display: inline-block;
+    width: 14em;
+    vertical-align: top;
+    margin-right: 2em;
+    margin-left: 1em;
+    }
+
+label {
+    width: 7em;
+    display: inline;
+    padding: 2px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+label.output {
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-bottom: #1b3409 1px dashed;
+}
+button {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    width: 6em;
+}
+
+div {
+    
+    margin-bottom: 1em;
+    }
+
+ul {
+    padding-left: 0;
+    list-style: none;
+    }
